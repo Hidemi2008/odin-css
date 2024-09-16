@@ -1,0 +1,13 @@
+.impar{
+background-color: rgb(247, 124, 124);
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#segundo{
+    color: blue;
+    font-size: 36px;
+}
+#quarto{
+    background-color: rgb(55, 141, 55);
+    font-size: 24px;
+    font-weight: bold;
+}
